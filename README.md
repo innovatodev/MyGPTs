@@ -8,7 +8,16 @@
 
 Collection of my custom GPTs classified in different themes.
 
+Needs a ChatGPT subscription in order to play with them.
+
 ## Image
+
+### Image2Image
+
+`Image2Image analyzes an image in order to build an image based on it.`
+
+[Image2Image](https://github.com/innovatodev/MyGPTs/tree/main/GPTs/Image/Image2Prompt)
+([Test it here](https://chat.openai.com/g/g-88sXA0VZ0-image2image))
 
 ### Image2Prompt
 
