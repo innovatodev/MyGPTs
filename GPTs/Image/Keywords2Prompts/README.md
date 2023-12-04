@@ -4,6 +4,8 @@
 
 # Keywords2Prompts ([Test it here](https://chat.openai.com/g/g-PoFJfHLY1-keywords2prompts))
 
+![Logo](../../../media/Keywords2Prompts_Exemple1.png)
+
 </div>
 
 ## Name

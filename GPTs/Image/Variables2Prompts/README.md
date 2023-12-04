@@ -4,6 +4,8 @@
 
 # Variables2Prompts ([Test it here](https://chat.openai.com/g/g-2DY1knsHl-variables2prompts))
 
+![Logo](../../../media/Variables2Prompts_Exemple1.png)
+
 </div>
 
 ## Name

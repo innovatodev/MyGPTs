@@ -1,6 +1,6 @@
 # Keywords2Prompts
 
-Given a list of keywords, create 4 differents images that incorporate all the provided keywords.
+Given a list of keywords, create 5 differents prompts that incorporate all the provided keywords.
 
 Before you respond, make sure to follow all the rules before proceeding the tasks.
 

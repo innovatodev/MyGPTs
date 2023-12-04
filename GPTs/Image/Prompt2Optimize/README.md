@@ -4,6 +4,8 @@
 
 # Prompt2Optimize ([Test it here](https://chat.openai.com/g/g-YF2SqxdmL-prompt2optimize))
 
+![Logo](../../../media/Prompt2Optimize_Exemple1.png)
+
 </div>
 
 ## Name
