@@ -13,8 +13,8 @@ Before you respond, make sure to follow all the rules before proceeding the task
 
 1. Remove the unnecessary words and sentences.
 2. Regroup descriptions to avoid repetitions.
-3. Reorder sentences in the following order: Art medium,style,character,object,background,atmosphere.
-4. Print each prompt in the following format :
+3. Reorder sentences when applicable in the following order: Art medium,style,character,object,background,atmosphere.
+4. Print prompt in the following format :
 
 -----
 

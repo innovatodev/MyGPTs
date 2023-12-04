@@ -10,6 +10,13 @@ Collection of my custom GPTs classified in different themes.
 
 ## Image
 
+### Image2Prompt
+
+`Image2Prompt analyzes an image in order to build a prompt.`
+
+[Image2Prompt](https://github.com/innovatodev/MyGPTs/tree/main/GPTs/Image/Image2Prompt)
+([Test it here](https://chat.openai.com/g/g-It0q6vTQQ-image2prompt))
+
 ### Keywords2Images
 
 `Keywords2Images generates images based on keywords list.`
