@@ -4,8 +4,6 @@
 
 # Variables2Prompts ([Test it here](https://chat.openai.com/g/g-2DY1knsHl-variables2prompts))
 
-![Logo](../../../media/Variables2Prompts_Exemple1.png)
-
 </div>
 
 ## Name
@@ -37,3 +35,11 @@ N/A
 - ❌ Web Browsing
 - ❌ DALL-E Image Generation
 - ❌ Code Interpreter
+
+## Showcase
+
+<div align="center">
+
+![Logo](../../../media/Variables2Prompts_Showcase1.png)
+
+</div>

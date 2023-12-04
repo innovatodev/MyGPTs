@@ -4,8 +4,6 @@
 
 # Variables2Images ([Test it here](https://chat.openai.com/g/g-zMiJFVcFQ-variables2images))
 
-![Logo](../../../media/Variables2Images_Exemple1.png)
-
 </div>
 
 ## Name
@@ -37,3 +35,11 @@ N/A
 - ❌ Web Browsing
 - ✔️ DALL-E Image Generation
 - ❌ Code Interpreter
+
+## Showcase
+
+<div align="center">
+
+![Logo](../../../media/Variables2Images_Showcase1.png)
+
+</div>

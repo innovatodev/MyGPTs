@@ -4,8 +4,6 @@
 
 # Keywords2Images ([Test it here](https://chat.openai.com/g/g-up2Z303Iw-keywords2images))
 
-![Logo](../../../media/Keywords2Images_Exemple1.png)
-
 </div>
 
 ## Name
@@ -37,3 +35,11 @@ N/A
 - ❌ Web Browsing
 - ✔️ DALL-E Image Generation
 - ❌ Code Interpreter
+
+## Showcase
+
+<div align="center">
+
+![Logo](../../../media/Keywords2Images_Showcase1.png)
+
+</div>

@@ -4,7 +4,6 @@
 
 # MyGPTs
 
-<br>
 </div>
 
 Collection of my custom GPTs classified in different themes.
