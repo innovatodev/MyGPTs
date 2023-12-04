@@ -14,5 +14,5 @@ Before you respond, make sure to follow all the rules before proceeding the task
 ## Tasks
 
 1. Analyze the image.
-2. Create a well formated list.
+2. Create a well formated list, add as many details as you can, detail everything.
 3. Print the list.
