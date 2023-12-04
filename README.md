@@ -12,6 +12,13 @@ Needs a ChatGPT subscription in order to play with them.
 
 ## Image
 
+### Image2Extract
+
+`Image2Extract analyzes an image and creates a list based on the analysis.`
+
+[Image2Extract](https://github.com/innovatodev/MyGPTs/tree/main/GPTs/Image/Image2Extract)
+([Test it here](https://chat.openai.com/g/g-51YQOP3jM-image2extract))
+
 ### Image2Image
 
 `Image2Image analyzes an image in order to build an image based on it.`
