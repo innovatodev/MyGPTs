@@ -39,6 +39,6 @@ N/A
 
 <div align="center">
 
-![Logo](../../../media/Prompt2Optimize_Showcase1.png)
+![Logo](../../../media/Prompt2Optimize_Showcase1.jpg)
 
 </div>
