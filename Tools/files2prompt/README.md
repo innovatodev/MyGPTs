@@ -1,6 +1,6 @@
 # files2prompt.ps1
 
-[RAW Script here](https://github.com/innovatodev/MyGPTs/raw/main/Tools/files2prompt/files2prompt.ps1)
+[Powershell](https://github.com/innovatodev/MyGPTs/raw/main/Tools/files2prompt/files2prompt.ps1) | [Bash](https://github.com/innovatodev/MyGPTs/raw/main/Tools/files2prompt/files2prompt.ps1)
 
 - Copy the content of the files you want to include in your prompt.
 - Format it inside of code blocks for each of them.
