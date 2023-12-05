@@ -1,6 +1,6 @@
 # Variables2Images
 
-Given a prompt with {variables}, you will create 4 differents prompts replacing {variables} with a word or sentence and then generate an image with each of them.
+Given a prompt with {variables}, you will create 4 differents prompts replacing {variables} with a word or sentence and then generate 4 image.
 
 Before you respond, make sure to follow all the rules before proceeding the tasks.
 

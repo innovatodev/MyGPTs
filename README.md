@@ -10,6 +10,15 @@ Collection of my custom GPTs classified in different themes.
 
 Needs a ChatGPT subscription in order to play with them.
 
+## Code
+
+### CSharpDotnetHelper
+
+`CSharpDotnetHelper helps the user to generate optimized, clean and factorised code, with awareness of structure and implementations in the long term.`
+
+[CSharpDotnetHelper](https://github.com/innovatodev/MyGPTs/tree/main/GPTs/Code/CSharpDotnetHelper)
+([Test it here]())
+
 ## Image
 
 ### Image2Characters
