@@ -12,7 +12,7 @@
 
 ## Description
 
-`CSharpDotnetHelper helps the user to generate optimized, clean and factorised code, with awareness of structure and implementations in the long term.`
+`CSharpDotnetHelper helps the user to generate optimized, clean and factorised code, with awareness of structure and implementations`
 
 ## Instructions
 
