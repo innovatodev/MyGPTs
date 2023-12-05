@@ -1,17 +1,16 @@
 ﻿# Retreive the content of a list of files, format them inside of codeblocks for easier communication and copy the formatted output to clipboard.
+# Relatives paths are used. Need to put the script at project root directory.
 [string[]]$files = @(
-    "File1",
-    "File2",
-    "File3"
+    ".\File1.cs",
+    ".\File2.cs"
 )
 $formattedContent = ""
 foreach ($file in $files) {
     if (Test-Path $file) {
         Write-Host "Copying: $file"
         $content = Get-Content $file -Raw
-        $fileName = Split-Path $file -Leaf
         $formattedContent += "`r`n" + '```'
-        $formattedContent += "$fileName" + "`r`n"
+        $formattedContent += "$file" + "`r`n"
         $formattedContent += $content + "`r`n"
         $formattedContent += '```' + "`r`n"
     } else {
