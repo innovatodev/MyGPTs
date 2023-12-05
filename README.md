@@ -10,16 +10,29 @@ Collection of my custom GPTs classified in different themes.
 
 Needs a ChatGPT subscription in order to play with them.
 
+You can ⭐ the project in order to stay informed, up to date and well it's also a form of support 💖
+
+Don't hesitate to Fork, hack or simply get inspiration from their instructions ✔️
+
+<div align="center">
+
 ## Code
+
+</div>
 
 ### CSharpDotnetHelper
 
 `CSharpDotnetHelper helps the user to generate optimized, clean and factorised code, with awareness of structure and implementations.`
 
 [CSharpDotnetHelper](https://github.com/innovatodev/MyGPTs/tree/main/GPTs/Code/CSharpDotnetHelper)
+([ShowCase](https://github.com/innovatodev/MyGPTs/tree/main/GPTs/Code/CSharpDotnetHelper/README.md#Showcase))
 ([Test it here](https://chat.openai.com/g/g-dnsubcd19-csharpdotnethelper))
 
+<div align="center">
+
 ## Image
+
+</div>
 
 ### Image2Characters
 
