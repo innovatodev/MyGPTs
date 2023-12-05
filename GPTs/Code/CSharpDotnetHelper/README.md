@@ -35,7 +35,7 @@ N/A
 
 ## HowToUse
 
-Refer to [input_template](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Code/CSharpDotnetHelper/Instructions.md).
+Refer to [input_template](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Code/CSharpDotnetHelper/input_template.txt).
 
 - First, ask one or more tasks. (Objectives, questions, help, debug, ...)
 - Everytime code change, it will print the structure of the project, just copy paste into the Project Structure code block.
