@@ -35,8 +35,16 @@ N/A
 
 ## Showcase
 
+- Created a WPF Project
+- Added a Profiles MenuBar with New, Edit, Remove items.
+- Added a TabControl.
+- Explained my project goal : Open all my favorites AI Tools at the same place
+- Asked for persistent profile management and separated WebView2 environment for each profile.
+- It took 3 prompts to generate a clean, factorised code
+- Can now use it after 5 minutes of **HARD WORK**.
+
 <div align="center">
 
-![Logo](./media/CSharpDotnetHelper_Showcase1.jpg)
+![Logo](./media/CSharpDotnetHelper_Showcase1.gif)
 
 </div>
