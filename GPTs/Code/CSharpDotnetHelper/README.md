@@ -33,7 +33,20 @@ N/A
 - ❌ DALL-E Image Generation
 - ❌ Code Interpreter
 
+## HowToUse
+
+Refer to [input_template](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Code/CSharpDotnetHelper/Instructions.md).
+
+- First, ask one or more tasks. (Objectives, questions, help, debug, ...)
+- Everytime code change, it will print the structure of the project, just copy paste into the Project Structure code block.
+- If your project contains Errors or Warnings, put them in the ERRORS codeblock.
+- Copy paste code in Actual Code section, 1 file = 1 codeblock.
+
+When your project reach a certain amount of lines, you will need to input as less code as you can, that's your job to know what is required for your goals to be accomplished.
+
 ## Showcase
+
+### MyBotArmy
 
 - Created a WPF Project
 - Added a Profiles MenuBar with New, Edit, Remove items.

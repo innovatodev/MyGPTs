@@ -1,0 +1,19 @@
+Please, {ACTION}:
+- {TASK1}
+- {TASK2}
+
+# Project Structure:
+
+```txt
+```
+
+# Errors
+
+```ERRORS
+```
+
+# Actual code:
+
+```Program.cs
+
+```
