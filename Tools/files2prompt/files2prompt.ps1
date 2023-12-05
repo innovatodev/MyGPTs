@@ -1,5 +1,5 @@
 ﻿# Retreive the content of a list of files, format them inside of codeblocks for easier communication and copy the formatted output to clipboard.
-# Relatives paths are used. Need to put the script at project root directory.
+# Script must be in the Project's Root directory.
 [string[]]$files = @(
     ".\File1.cs",
     ".\File2.cs"
