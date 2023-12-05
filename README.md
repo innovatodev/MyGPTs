@@ -28,7 +28,7 @@ Needs a ChatGPT subscription in order to play with them.
 
 ### Image2GeoGuess
 
-`Image2GeoGuess analyzes an image and creates a list based on the analysis.`
+`Image2GeoGuess analyzes an image and try to guess where it was taken (GeoGuesser).`
 
 [Image2GeoGuess](https://github.com/innovatodev/MyGPTs/tree/main/GPTs/Image/Image2GeoGuess)
 ([Test it here](https://chat.openai.com/g/g-meMRNzzxd-image2geoguess))
