@@ -20,22 +20,13 @@ Before you respond, make sure to follow all the rules before proceeding the task
 ## Project Structure
 
 ```txt
-.\{Directory Name}
-    {FileName} | Short Description
-        {Implementation} {args}
-```
-
-### Example
-
-```txt
-.\MyBotArmy
-    MainWindow.xaml | Main Application Window
-        MainWindow()
-    MainWindow.xaml.cs | Main Window Logic
-        MainWindow_Loaded(object, RoutedEventArgs)
-        RefreshProfiles()
-        AddMenuItem(ItemsControl, Profile, Action<Profile>)
-    ProfileService.cs | Profile Management Service
-        UpdateProfile(Profile, Profile)
-        SaveProfiles(List<Profile>)
+.\{FileName1} | Short Description
+    {Implementation1}({args})
+    {Implementation2}({args})
+.\{FileName2} | Short Description
+    {Implementation1}({args})
+    {Implementation2}({args})
+.\{Directory1}\{FileName3}
+    {Implementation1}({args})
+    {Implementation2}({args})
 ```
