@@ -1,4 +1,4 @@
-# files2prompt.ps1
+# files2prompt
 
 [Powershell](https://github.com/innovatodev/MyGPTs/raw/main/Tools/files2prompt/files2prompt.ps1) | [Bash](https://github.com/innovatodev/MyGPTs/raw/main/Tools/files2prompt/files2prompt.sh)
 
