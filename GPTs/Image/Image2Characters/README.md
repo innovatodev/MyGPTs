@@ -37,6 +37,6 @@ N/A
 
 <div align="center">
 
-![Logo](../../../media/Image2Characters_Showcase1.jpg)
+![Logo](./media/Image2Characters_Showcase1.jpg)
 
 </div>

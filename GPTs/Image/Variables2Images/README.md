@@ -40,6 +40,6 @@ N/A
 
 <div align="center">
 
-![Logo](../../../media/Variables2Images_Showcase1.jpg)
+![Logo](./media/Variables2Images_Showcase1.jpg)
 
 </div>

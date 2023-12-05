@@ -26,6 +26,13 @@ Needs a ChatGPT subscription in order to play with them.
 [Image2Extract](https://github.com/innovatodev/MyGPTs/tree/main/GPTs/Image/Image2Extract)
 ([Test it here](https://chat.openai.com/g/g-51YQOP3jM-image2extract))
 
+### Image2GeoGuess
+
+`Image2GeoGuess analyzes an image and creates a list based on the analysis.`
+
+[Image2GeoGuess](https://github.com/innovatodev/MyGPTs/tree/main/GPTs/Image/Image2GeoGuess)
+([Test it here](https://chat.openai.com/g/g-meMRNzzxd-image2geoguess))
+
 ### Image2Image
 
 `Image2Image analyzes an image in order to build an image based on it.`
