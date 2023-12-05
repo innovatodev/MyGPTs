@@ -17,7 +17,7 @@ Needs a ChatGPT subscription in order to play with them.
 `CSharpDotnetHelper helps the user to generate optimized, clean and factorised code, with awareness of structure and implementations.`
 
 [CSharpDotnetHelper](https://github.com/innovatodev/MyGPTs/tree/main/GPTs/Code/CSharpDotnetHelper)
-([Test it here]())
+([Test it here](https://chat.openai.com/g/g-dnsubcd19-csharpdotnethelper))
 
 ## Image
 

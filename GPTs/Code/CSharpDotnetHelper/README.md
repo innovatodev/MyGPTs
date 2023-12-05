@@ -2,7 +2,7 @@
 
 ![Logo](../../../media/mygpts_logo256.png)
 
-# CSharpDotnetHelper ([Test it here]())
+# CSharpDotnetHelper ([Test it here](https://chat.openai.com/g/g-dnsubcd19-csharpdotnethelper))
 
 </div>
 
