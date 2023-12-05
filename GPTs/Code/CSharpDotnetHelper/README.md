@@ -46,7 +46,7 @@ When your project reach a certain amount of lines, you will need to input as les
 
 ## Tools
 
-You can use the script [files2prompt](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Tools/files2prompt) in order to retreive the content of a list of files, format them inside of codeblocks for easier communication and copy the formatted output to clipboard.
+You can use the script [files2prompt](https://github.com/innovatodev/MyGPTs/blob/main/Tools/files2prompt) in order to retreive the content of a list of files, format them inside of codeblocks for easier communication and copy the formatted output to clipboard.
 
 ## Showcase
 
