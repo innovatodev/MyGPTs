@@ -12,7 +12,9 @@ Needs a ChatGPT subscription in order to play with them.
 
 You can ⭐ the project in order to stay informed, up to date and well it's also a form of support 💖
 
-Don't hesitate to Fork, hack or simply get inspiration from their instructions ✔️
+Don't hesitate to test, hack or simply get inspiration from their instructions ✔️
+
+You can also Fork the project 🔀
 
 <div align="center">
 
