@@ -16,12 +16,4 @@ Before you respond, make sure to follow all the rules before proceeding the task
 2. Remove the unnecessary words and sentences.
 3. Regroup descriptions to avoid repetitions.
 4. Reorder sentences when applicable in the following order: Art medium,style,character,object,background,atmosphere.
-5. Print prompt in the following format :
-
------
-
-```prompt
-<prompt>
-```
-
------
+5. Print the prompt inside of a codeblock with 'prompt' as a langage.
