@@ -16,8 +16,8 @@
 
 ## Instructions
 
-[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Image/Prompt2Optimize/Instructions.md)
-([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Image/Prompt2Optimize/Instructions.md))
+[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Image/Prompt2Optimize/Prompt2Optimize.md)
+([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Image/Prompt2Optimize/Prompt2Optimize.md))
 
 ## Conversation Starters
 

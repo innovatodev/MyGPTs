@@ -16,8 +16,8 @@
 
 ## Instructions
 
-[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Image/Image2Extract/Instructions.md)
-([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Image/Image2Extract/Instructions.md))
+[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Image/Image2Extract/Image2Extract.md)
+([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Image/Image2Extract/Image2Extract.md))
 
 ## Conversation Starters
 

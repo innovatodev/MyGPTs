@@ -16,8 +16,8 @@
 
 ## Instructions
 
-[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Image/Image2Image/Instructions.md)
-([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Image/Image2Image/Instructions.md))
+[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Image/Image2Image/Image2Image.md)
+([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Image/Image2Image/Image2Image.md))
 
 ## Conversation Starters
 

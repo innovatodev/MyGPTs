@@ -16,8 +16,8 @@
 
 ## Instructions
 
-[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Image/Keywords2Prompts/Instructions.md)
-([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Image/Keywords2Prompts/Instructions.md))
+[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Image/Keywords2Prompts/Keywords2Prompts.md)
+([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Image/Keywords2Prompts/Keywords2Prompts.md))
 
 ## Conversation Starters
 

@@ -16,8 +16,8 @@
 
 ## Instructions
 
-[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Code/CSharpDotnetHelper/Instructions.md)
-([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Code/CSharpDotnetHelper/Instructions.md))
+[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Code/CSharpDotnetHelper/CSharpDotnetHelper.md)
+([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Code/CSharpDotnetHelper/CSharpDotnetHelper.md))
 
 ## Conversation Starters
 

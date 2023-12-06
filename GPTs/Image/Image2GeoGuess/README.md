@@ -16,8 +16,8 @@
 
 ## Instructions
 
-[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Image/Image2GeoGuess/Instructions.md)
-([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Image/Image2GeoGuess/Instructions.md))
+[Instructions](https://github.com/innovatodev/MyGPTs/blob/main/GPTs/Image/Image2GeoGuess/Image2GeoGuess.md)
+([RAW](https://github.com/innovatodev/MyGPTs/raw/main/GPTs/Image/Image2GeoGuess/Image2GeoGuess.md))
 
 ## Conversation Starters
 
